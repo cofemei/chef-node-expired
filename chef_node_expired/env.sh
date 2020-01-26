@@ -1,0 +1,6 @@
+export PROFILE="prd"
+export REGION="ap-northeast-1"
+export CHEF_SERVER_URL="https://chef.senao.com.tw/organizations/senao/"
+export USERNAME="george"
+export SLACK_HOOKS_URL="https://hooks.slack.com/services/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"
+export CHANNEL="#test"

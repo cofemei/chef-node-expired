@@ -1,0 +1,6 @@
+export PROFILE="prd"
+export REGION="ap-northeast-1"
+export CHEF_SERVER_URL="https://chef.com.tw/organizations/se/"
+export USERNAME="bot"
+export SLACK_HOOKS_URL="https://hooks.slack.com/services/T3B6JRULW"
+export CHANNEL="#test"
